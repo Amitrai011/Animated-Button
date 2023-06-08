@@ -6,5 +6,5 @@ button.addEventListener("click", (event) => {
 
     setTimeout(() => {
         button.classList.remove("start-animation");
-    }, 600);
+    }, 800);
 })
